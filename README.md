@@ -1,7 +1,7 @@
 👋 Hi, I’m @adityaimam
 👀 I’m interested in Software Engineering
 
-## 🌐 Socials:Add commentMore actions
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-imam-ramadhan-586198335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adtyimrd27@gmail.com) 
 
 <!---
